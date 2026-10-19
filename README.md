@@ -1,6 +1,5 @@
 # devops-demo
 
-
 ## Getting started
 
 Clone the repository:
